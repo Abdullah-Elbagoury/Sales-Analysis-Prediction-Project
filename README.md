@@ -3,7 +3,7 @@ Sales Analysis &amp; Prediction using Linear Regression This project uses a simp
 # Sales Prediction using Linear Regression
 
 ## Project Overview
-This project uses **Linear Regression** to predict sales based on advertising expenditures (TV, Radio, Newspaper). The goal is to analyze advertising impact and build an accurate prediction model.
+This project uses **EDA** and **Linear Regression** to predict sales based on advertising expenditures (TV, Radio, Newspaper). The goal is to analyze advertising impact and build an accurate prediction model.
 
 ## Dataset
 - **Source**: Advertising dataset (provided).  
