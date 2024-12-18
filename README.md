@@ -15,8 +15,7 @@ This project uses **Linear Regression** to predict sales based on advertising ex
 
 ## Tools Used
 - **Python** (pandas, matplotlib, seaborn, scikit-learn)
-- **Jupyter Notebook** for development
-- **GitHub** for version control
+- **Jupyter lab** for development
 
 ## Results
 - **R² Score**: 0.91 (91% variance explained)  
