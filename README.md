@@ -1,6 +1,5 @@
-# Sales-Analysis-Prediction-Project
+# Sales Analysis & Prediction Project
 Sales Analysis &amp; Prediction using Linear Regression This project uses a simple Linear Regression model to predict sales based on advertising expenditure for TV and Radio. The analysis includes data exploration, model evaluation, and visualization, demonstrating key machine learning concepts in Python.
-# Sales Prediction using Linear Regression
 
 ## Project Overview
 This project uses **EDA** and **Linear Regression** to predict sales based on advertising expenditures (TV, Radio, Newspaper). The goal is to analyze advertising impact and build an accurate prediction model.
